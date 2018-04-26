@@ -1,5 +1,5 @@
 ---
-description: 2018.03 -- 2018.06
+description: Yang Eric Li   (2018.03 -- 2018.06)
 ---
 
 # Bioinfo Training Additional Tutorial
