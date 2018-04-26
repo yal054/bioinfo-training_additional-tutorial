@@ -1,12 +1,12 @@
 ---
-description: experiences sharing by Yang Eric Li and Siqi Wang
+description: 2018.03 -- 2018.06
 ---
 
 # Bioinfo Training -- Additional Tutorial
 
-### 2018.03 -- 2018.06
-
-## Content
+{% hint style="info" %}
+## **Table of Content**
+{% endhint %}
 
 ### PART 1
 
@@ -20,7 +20,8 @@ description: experiences sharing by Yang Eric Li and Siqi Wang
 3. Basic: Differential Expression Analysis and Clustering
 4. Normalization
 5. Confounders and Imputation
-6. Control data and extension: RBP, motif, structure
+6. Control data
+7. Extension: RBP, motif, structure
 
 ### PART 3
 
