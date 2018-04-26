@@ -2,7 +2,7 @@
 description: 2018.03 -- 2018.06
 ---
 
-# Bioinfo Training -- Additional Tutorial
+# Bioinfo Training Additional Tutorial
 
 {% hint style="info" %}
 ## **Table of Content**
