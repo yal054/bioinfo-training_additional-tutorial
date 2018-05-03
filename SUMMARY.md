@@ -12,5 +12,5 @@
 
 * [1.preprocessing\_mapping\_QC](part-ii/1.preprocessing_mapping_qc.md)
 * [2. Construction of expression matrix](part-ii/2.-construction-of-expression-matrix.md)
-* [3. Differential Expression Analysis & Clustering](part-ii/3.-differential-expression-analysis.md)
+* [3. Differential Expression Analysis & Exploring](part-ii/3.-differential-expression-analysis.md)
 
