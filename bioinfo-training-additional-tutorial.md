@@ -25,7 +25,7 @@ description: Yang Eric Li   (2018.03 -- 2018.06)
 
 ### PART 3
 
-1. Machine Learning Basics
-2. Feature selection
-3. Deep learning Basics
+1. Machine Learning and Feature selection
+
+
 
