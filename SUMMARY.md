@@ -12,8 +12,7 @@
 
 * [1.preprocessing\_mapping\_QC](part-ii/1.preprocessing_mapping_qc.md)
 * [2. Construction of expression matrix](part-ii/2.-construction-of-expression-matrix.md)
-* [3. Differential Expression Analysis & Exploring](part-ii/3.-differential-expression-analysis.md)
+* [3. Differential Expression Analysis & Exploring](part-ii/3.-differential-expression-analysis-and-exploring.md)
 * [4. QC and normalization](part-ii/4.-qc-and-normalization.md)
-* [5. Imputation and confounders](part-ii/5.-confounders-and-imputation.md)
-* 6. Control data
+* [5. Imputation and confounders](part-ii/5.-imputation-and-confounders.md)
 

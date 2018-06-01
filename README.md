@@ -18,13 +18,12 @@ description: experiences sharing by Yang Eric Li and Siqi Wang
 1. Basic: Preprocessing, Mapping and QC
 2. Basic: Construction and Cleaning of Expression Matrix
 3. Basic: Differential Expression Analysis and Clustering
-4. Normalization
-5. Confounders and Imputation
-6. Control data and extension: RBP, motif, structure
+4. Advanced: QC and Normalization
+5. Advanced: Confounders and Imputation
 
 ### PART 3
 
 1. Machine Learning Basics
-2. Feature selection
-3. Deep learning Basics
+
+
 

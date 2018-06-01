@@ -1,5 +1,5 @@
 ---
-description: Yang Eric Li   (2018.03 -- 2018.06)
+description: experiences sharing by Yang Eric Li and Siqi Wang
 ---
 
 # Bioinfo Training Additional Tutorial
