@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* [Bioinfo Training Additional Tutorial](bioinfo-training-additional-tutorial.md)
+* [Table of Content](bioinfo-training-additional-tutorial.md)
 
 ## Part I
 
